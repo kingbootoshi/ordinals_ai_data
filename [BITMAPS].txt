@@ -1,0 +1,18 @@
+﻿[BITMAPS]
+
+Bitmaps are a user made meta-protocol using Ordinal inscriptions as the base. Original minters simply inscribed [BITCOIN_BLOCK_NUMBER.bitmap] (eg. 2.bitmaps, 1002.bitmaps, 810000.bitmaps) before somebody else did to "claim" that bitcoin block as metaversal land.
+Imagine owning a piece of digital land. Not just any land, but a unique and irreplaceable slice of the Bitcoin blockchain itself. That's what Bitmaps on Ordinals offers.
+
+
+Here's the breakdown:
+
+
+- **Ordinals** make every individual Satoshi on the Bitcoin blockchain identifiable and trackable. They are like digital DNA for your Bitcoin, unique and unreplicable.
+- **Bitmaps** use this new feature to create digital real estate. By inscribing a Bitcoin block with a Bitmap—claiming it with "blocknumber.bitmap"—that space is now uniquely yours.
+- The draw? As Bitcoin's blockchain grows block by block, so does the potential of Bitmaps—endlessly expandable, mirroring the blockchain's own growth.
+- Why the high value? It's because these inscribed blocks are unique. Once a block is claimed, it's off the market, a digital "limited edition."
+- Developers see potential here, building on this new digital landscape, turning each block into a metaverse space teeming with possibilities.
+
+
+Understanding Bitmaps is understanding the frontier of digital ownership and development—a blend of scarcity, technology, and community building on the backbone of Bitcoin.
+[BITMAPS END]

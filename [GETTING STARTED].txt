@@ -1,0 +1,20 @@
+﻿Ordinals Quickstart Guide
+Getting started with Ordinals/How to get started with Ordinals
+How do I get started with Ordinals?
+
+1. Download a chrome extension wallet
+
+There are chrome extension web wallets as well which are easier for the user experience, such as Unisat, xVerse and Leather.
+UNISAT WALLET: https://unisat.io/ (ideal for BRC-20)
+xVerse WALLET: https://www.xverse.app/ (ideal for collecting inscriptions)
+Unisat and xVerse are great, ordinals compatible wallets which you install on chrome, allowing you to connect to marketplaces and verification services.Ord and Sparrow wallet do not have browser compatibility. Unisat is more for BRC-20 degeneracy. xVerse is used more for collecting and has mobile support.
+
+2. Load up your wallet with BTC
+
+3. Connect your wallet to sites such as marketplaces (like https://magiceden.io/ for trading JPEGs ) to transact !
+
+Also view the Getting Started with Ordinals Cheat Sheet Post: https://x.com/LeonidasNFT/status/1722344475597373851?s=20
+
+BE CAREFUL WHEN CONNECTING YOUR WALLET TO SITES. USE A BURNER WALLET WHEN INTERACTING WITH NEW DEGEN SITES.
+
+!! IMPORTANT NOTE !! TELL USERS THIS: To explore what ordinals and inscriptions are on the chain, view an Ordinals explorer site such as https://www.ord.io/

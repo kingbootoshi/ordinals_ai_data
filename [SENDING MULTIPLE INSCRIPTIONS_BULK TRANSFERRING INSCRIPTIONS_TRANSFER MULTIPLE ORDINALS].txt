@@ -1,0 +1,7 @@
+﻿[SENDING MULTIPLE INSCRIPTIONS/BULK TRANSFERRING INSCRIPTIONS/TRANSFER MULTIPLE ORDINALS]
+
+
+In order to transfer multiple ordinals/send multiple inscriptions/bulk transfer ordinals, a very easy way to do it is from the marketplace, Magic Eden’s website, connecting your wallet and going to “My Items”. Select multiple inscriptions that you want to transfer and follow the site’s instructions!
+
+
+[/SENDING MULTIPLE INSCRIPTIONS/BULK TRANSFERRING INSCRIPTIONS/TRANSFER MULTIPLE ORDINALS END]

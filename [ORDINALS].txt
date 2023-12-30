@@ -1,0 +1,186 @@
+# Ordinal Theory Handbook Compilation
+
+## Introduction to Ordinal Theory
+- "What exactly are Ordinals in Bitcoin?"
+- "How do Ordinals function within the Bitcoin blockchain?"
+- "What is the significance of assigning unique identities to satoshis?"
+- "Can you explain the numismatic value of Ordinals?"
+- "In what ways are Ordinals secure and immutable?"
+Ordinal theory assigns unique identities to Bitcoin's smallest unit, satoshis, enabling their tracking and imbuing them with meaning. It operates on-chain without needing sidechains, tokens, or changes to Bitcoin. Ordinals carry numismatic value, can be inscribed with data, and are as secure as Bitcoin itself. They spawn unique digital artifacts, which are immutable and traceable, opening possibilities for various use-cases.
+This enables the creation of "digital artifacts" or "inscriptions" attached to specific satoshis, effectively creating native Bitcoin NFTs.
+For detailed information, view the official Ordinals documentation at: https://docs.ordinals.com/
+
+## Ordinals Overview
+- "How are satoshis numbered using Ordinals?"
+- "What is the purpose of the ordinal index and how does it work?"
+- "Can you explain the transfer rules for Ordinals?"
+- "What are some potential use-cases for Ordinals?"
+Ordinals are a numbering scheme for satoshis based on their mining order, transferable by specific rules without the need for additional tokens or blockchain changes. They can represent various assets and are open-source, with an index for tracking, a wallet for transactions, and a block explorer.
+
+## Rarity and Naming
+- "How is rarity determined in the context of Ordinals?"
+- "What does the base-26 encoding system for naming Ordinals entail?"
+- "Can you give examples of rare Ordinals and how they're categorized?"
+Rarity in ordinals is dictated by Bitcoin's periodic events (blocks, difficulty adjustments, halvings, and cycles), and ordinals can be named using a base-26 encoding. Rare ordinals are prized and can be tagged as common, uncommon, rare, epic, legendary, or mythic based on their mining time and events.
+
+
+## Inscriptions
+- "What does inscribing content onto a satoshi mean?"
+- "How secure is the inscription process?"
+- "What information is included in an inscription's metadata?"
+- "How are inscriptions uniquely identified?"
+Satoshis can have arbitrary content inscribed, creating Bitcoin-native digital artifacts. This process involves a commit/reveal transaction structure and is securely stored on-chain. Inscriptions include fields like content type, pointer, parent, metadata, and content encoding. They are identified by a unique ID involving the transaction ID and index.
+
+
+## Digital Artifacts and Ownership
+- "What are digital artifacts in the Ordinals ecosystem?"
+- "How does ownership of a digital artifact work?"
+- "Can digital artifacts be traded or transferred?"
+Digital artifacts are complete, immutable, permissionless, uncensorable, and have owners. They are conceptually parallel to physical artifacts but exist in the digital realm and are guaranteed by the Bitcoin blockchain.
+
+
+## Ordinals and NFT Comparison
+- "How are Ordinals different from Ethereum NFTs?"
+- "Why might Ordinals be considered more secure than NFTs?"
+- "What does it mean that Ordinals have a richer content model?"
+Ordinals differ from Ethereum NFTs in that they are always on-chain and immutable, simpler, more secure, scarce, and do not support on-chain royalties. They can attract new markets due to Bitcoin's broader appeal and have a richer content model.
+
+
+## Collecting Ordinals
+- "What should collectors know about handling Ordinals?"
+- "Which wallets are recommended for collecting Ordinals and why?"
+Collecting ordinals requires careful handling as they are tied to individual satoshis. Wallets must support sat-control and sat-selection to safely store and transfer ordinals and inscriptions. It's advisable to use wallets like ord that automatically handle these requirements.
+
+
+## Sending and Receiving Ordinals
+- "How do I safely send an Ordinal to someone else?"
+- "What precautions should I take when receiving an Ordinal?"
+To safely send and receive ordinals, use Bitcoin Core wallets or wallets like Sparrow that allow UTXO control, ensuring that each transaction selects the correct UTXO containing the desired ordinal. Always verify the details before executing a transaction to prevent loss of ordinals.
+
+
+## Moderation of Ordinal Content
+- "How can I moderate the content of Ordinals displayed on my block explorer?"
+- "What are the best practices for content moderation in the Ordinals ecosystem?"
+Operators of ordinal block explorers should moderate content to prevent the display of objectionable or unlawful material. This can be done using configuration files to hide specific inscriptions and is the responsibility of the individual running the instance.
+
+
+## Reindexing and Bounty Hunting
+- "What does reindexing the ord database involve?"
+- "How does bounty hunting for Ordinals work?"
+Occasionally, the ord database must be reindexed, particularly after major updates or database corruption. Bounty hunting for ordinals can be a challenging task, with rewards offered for fulfilling specific criteria related to ordinal numbers or inscriptions.
+
+For detailed guidance and technical instructions related to ordinals, refer to the official documentation and GitHub repository.
+
+
+## Reinscription
+- "Can a single satoshi have multiple inscriptions?"
+- "How does reinscription add value to an Ordinal?"
+Reinscription refers to the process of adding multiple inscriptions to a single satoshi. While individual inscriptions are immutable, a satoshi can accumulate several inscriptions, adding layers to its history and value.
+
+
+## Inscription Numbers and Collectibility
+- "Why are early inscription numbers considered more valuable?"
+- "How does the inscription number influence collectibility?"
+Ordinal inscriptions are indexed sequentially, with early numbers indicating rarity and historical significance. Collectors form communities around these numbers, creating a tiered system of value and rarity. Inscription numbers, combined with other factors like file size and type, contribute to an inscription's worth.
+
+
+## File Size
+- "Does the file size of an inscription affect its rarity or value?"
+- "What are 'Four Meggers' and why are they significant?"
+The file size of an inscription impacts its collectibility. Large inscriptions, known as "Four Meggers," are rare and expensive due to the cost of inscribing and the technical challenge of fitting within Bitcoin's transaction size limits.
+
+
+## File Type
+- "What types of files can be inscribed as Ordinals?"
+- "How are artists using different file types to create Ordinal art?"
+Inscriptions aren't limited to images; they can include various file types like videos, gifs, audio, games, and 3D objects. Artists explore this versatility to push the boundaries of on-chain art.
+
+
+## Bitmaps
+- "What is the concept of Bitmaps in the Ordinals protocol?"
+- "How do Bitmaps relate to digital real estate?"
+Bitmaps are a unique application of Ordinals where each Bitcoin block can be claimed and inscribed as a piece of digital land, creating a form of metaversal real estate tied to the blockchain's growth.
+
+
+## Running a Bitcoin Node and Ord Wallet
+- "How do I set up a Bitcoin node and ord wallet for participating in Ordinals?"
+- "Why is running your own node important for the Ordinals ecosystem?"
+Setting up a node and wallet allows users to participate directly in the Ordinals ecosystem. A video guide by pazNGMI offers step-by-step instructions on setting up a Bitcoin node and ord wallet.
+
+
+## BRC-20 Tokens
+- "What are BRC-20 tokens and how do they relate to Ordinals?"
+- "What should users be aware of when interacting with BRC-20 tokens?"
+BRC-20 is a community-created token standard enabling fungible tokens on Bitcoin via the Ordinals protocol. These tokens are experimental and require caution when interacting with them due to their novelty and potential risks.
+
+
+## BRC-69 Protocol
+- "Can you explain the BRC-69 protocol and its features?"
+- "What are the benefits of using BRC-69 for Ordinals Collections?"
+BRC-69, created by the Luminex.io team, is a standard for Ordinals Collections that optimize costs and enable innovative features like pre-reveal launches and on-chain reveals.
+
+
+## Cursed Inscriptions
+- "What are cursed inscriptions and how should they be handled?"
+- "How do cursed inscriptions affect the Ordinals market?"
+Cursed inscriptions are ordinals that didn't receive a number due to a protocol bug. They are given negative values and require special handling.
+
+
+## Ordinals Wallets and Extensions
+- "What Chrome extension wallets are available for managing Ordinals?"
+- "How do these wallets enhance the user experience with Ordinals?"
+Various Chrome extension wallets like Unisat, xVerse, and Leather simplify the user experience for interacting with Ordinals. These wallets enable easy connections to marketplaces and verification services.
+
+
+## Inscribe Without Installing Ord Client
+- "Is it possible to inscribe without installing the ord client?"
+- "What services allow users to inscribe easily and what are the associated fees?"
+Users can inscribe files without installing the ord client by using inscribing sites like Chisel and Ordinals Bot, which facilitate the process for a fee.
+
+
+## Marketplaces
+- "Where can I buy and sell Ordinals?"
+- "What should I look for in an Ordinals marketplace?"
+Ordinals can be bought and sold on marketplaces similar to trading NFTs on Ethereum. Notable marketplaces include Magic Eden, Gamma.io, and Ordinals Wallet.
+
+
+## Speeding Up Stuck Bitcoin Ordinal Transactions
+- "How can I speed up a stuck Bitcoin Ordinal transaction?"
+- "What is Child Pays for Parent (CPFP) and how does it help with stuck transactions?"
+Users can speed up stuck transactions using Child Pays for Parent (CPFP) or leverage RBF support in wallets like xVerse. A video by pazNGMI explains the process in detail.
+
+
+## Runes Protocol
+- "What is the Runes protocol and when is it expected to launch?"
+- "How will Runes differ from the BRC-20 token protocol?"
+Runes is an upcoming fungible token protocol set to launch alongside the Bitcoin halvening, promising more efficiency and lower costs than BRC-20 tokens.
+
+
+## Sat Control Mini Guide
+- "Why is UTXO management important for handling rare sats and inscriptions?"
+- "How can I ensure safe transfer and storage of my Ordinals?"
+UTXO management is crucial for handling rare sats and inscriptions. Coin control prevents accidental spending of special sats, and proper management ensures the safe transfer and storage of Ordinals.
+
+
+## Bulk Transferring Inscriptions
+- "How can I transfer multiple Ordinals at once?"
+- "What tools or marketplaces simplify bulk transferring of inscriptions?"
+Bulk transferring of ordinals can be done easily through marketplaces like Magic Eden, using wallet interfaces to select and send multiple inscriptions.
+
+
+### Special Sats and Rarity
+- "What makes a satoshi special or rare in the context of Ordinals?"
+- "How do I identify and manage special sats?"
+Special sats, such as Uncommon, Rare, Epic, Legendary, Mythic, and others, have unique attributes that add to their collectibility. They can be identified and managed using tools like Saturn and manual control techniques.
+
+
+## Stamps on Bitcoin
+- "What are Stamps and how do they differ from Ordinals?"
+- "Can Stamps and Ordinals coexist on the Bitcoin blockchain?"
+Stamps, a protocol for embedding art within Bitcoin transactions, offer an alternative to Ordinals. They depend on Counterparty infrastructure and are distinct from Ordinals in terms of storage and recognition.
+
+
+## The People of the Ordinals Community
+- "Who are some of the key figures in the Ordinals community?"
+- "How have these individuals contributed to the development of the Ordinals ecosystem?"
+Key figures in the Ordinals community, like Bootoshi, Blootoshi, General Sar, Z, 0wl, Psifour, Post_Capone, zk_shark, Leonidas, udiWertheimer and others, contribute to the ecosystem through projects, discussions, and artistic endeavors, helping shape the narrative and direction of Ordinals.

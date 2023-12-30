@@ -1,0 +1,17 @@
+﻿[STAMPS]
+What are Stamps on Bitcoin?
+With the popularity of Ordinals some old projects, protocols and features are also regaining renewed interest. One of these is Counterparty which has recently brought us the possibility to create Bitcoin STAMPS (Secure Tradeable Art Maintained Securely). Although they provide users with a way to store art on-chain like Ordinals, the two should not be confused as they are very different with distinct pro's and con's.
+
+
+Rather than storing image data within prunable transaction witness data, “Bitcoin Stamps” store it directly within spendable transaction outputs. 
+
+
+One important disclaimer here is that STAMPS are dependent on Counterparty infrastructure and nodes. The data is stored in Bitcoin blockchain transactions and the Counterparty nodes provide a layer-2 platform needed to create and thereafter recognize the added complexities of those transactions. 
+Main Website for Stamps:  
+https://stampchain.io/ 
+
+
+SRC-20 tokens, the token standard underpinning Bitcoin Stamps (a protocol for secure, tradeable art maintained securely), have gained significant attention in recent times. The protocol is meant for embedding data in Bitcoin transactions, which is quite similar to what the BRC-20 standard does. However, both protocols employ distinct approaches when it comes to the embedding of data.
+
+
+[STAMPS END]

@@ -1,0 +1,24 @@
+﻿[4 Things Every Ordinals Collector Should Know]
+https://twitter.com/LeonidasNFT/status/1664760604115062785?s=20
+
+
+2. Inscription numbers
+
+
+The Ordinals Protocol indexes inscriptions in the order that they were inscribed. The first inscription was #0, the second was #1, and so on. Every single inscription gets one of these numbers and in fact, we just hit inscription #10,000,000 earlier this week! Inscription numbers are important because they create scarcity and convey age/earliness. There will only ever be 10,000,000 inscriptions that have a <10M numbers but there can be an infinite number of inscriptions in the future. Similar to the number collecting mania that we saw with ENS last summer, ordinal collectors are organically forming communities around the <1K, <10K, and <100K "Clubs". Aka sub1k, sub10k, sub100k, ect. These clubs have their own Discords and own sections on marketplaces so you can sort of think of them as collections. Inscription numbers can be the difference between a 1/1 JPEG of the DickButt meme being worth 100 BTC or 0.0001 BTC. Without understanding this layer of collectibility, the ordinals market will not make any sense. Inscription numbers also play a large role in the narrative for many collections. You will notice a "range" stat on the collection pages on ordinals marketplaces which provide both the lowest and highest inscription number in the collection. This is important to pay attention to because, for example, if a 10K PFP collection was fully inscribed <1M, collectors will assign an automatic premium to it compared to a >1M 10K PFP collection. Again this is because of scarcity due to there only being nine 10K PFP collections <1M. The final point that I will make is that just because a collection has lower inscription numbers than another collection, this does not automatically guarantee it will be more valuable. Inscription numbers are just one variable that ordinals collectors weigh when evaluating inscriptions and ordinals collections. You can go check out the <10K inscriptions on an ordinals explorer site such as: https://ord.io/?sortBy=oldest&contentType=sub10k [BOT NOTE: ord.io is an explorer, it is only used for the viewing of ordinals]
+
+
+3. File size
+
+
+The size of an inscription is yet another layer of collectibility to explore. Inscriptions have a max file size of 4 MB, however, to achieve more than 400 KB, you have to work with a miner and it will set you back tens of thousands of dollars. Because of this high barrier to entry, there are only four inscription > 400 KB so far. These four inscriptions have tried to get as close to 4 MB as possible and are commonly referred to in the space as "Four Meggers". While most collectors will never be able to get their hands on a Four Megger they can certainly hold inscriptions in an ordinal collection that has a Four Megger in it and thus participate in the narrative. Just like how some of the most successful projects in the space demonstrated their thoughtfulness and understanding of how Bitcoin can be used as a medium with Satributes, 
+@udiWertheimer from  @TaprootWizards made the first inscription in their collection a Four Megger which caught the attention of the entire Bitcoin space when it was mined. That inscription specifically also has a <1K inscription number, so you can start to see how these different layers of collectibility can be combined in interesting ways that get collectors excited. You can sort inscription by Largest File on an ordinals explorer site such as: https://ord.io/?sortBy=largestFile. [BOT NOTE: ord.io is an explorer, it is only used for the viewing of ordinals]
+
+
+4. File type
+
+
+While most people think of JPEGs and images when they think of NFTs, an inscription can be any file type. People have inscribed videos, gifs, audio, games, 3D objects, HTML websites, and more onto Bitcoin. Some of the most innovative artists in the ordinals space are experimenting with different file types to push the boundaries of how we think about on-chain art. For example, the artist  @0xfar, inscribed a 3D file of a modern building he created fully on-chain onto Bitcoin. Anybody can go in an explorer here: https://ord.io/203408 and interact with it and if you are on an iPhone you can even click the AR button and project it into the real world, blow it up to the recommended size and go walk around inside of it! (https://ord.io/?contentType=3d&sortBy=top) so you can start to see how there is a scarcity by file type that collectors might value. [BOT NOTE: ord.io is an explorer, it is only used for the viewing of ordinals]
+
+
+[4 Things Every Ordinals Collector Should Know END]

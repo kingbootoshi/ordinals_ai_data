@@ -1,0 +1,8 @@
+﻿[RUNES]
+Runes are a new fungible token protocol on Bitcoin in development by the Ord team. It will go live the same block as the halvening, which should be somewhere in April.
+
+
+It is said to be more efficient than BRC-20s, both in transaction time (requires 1 TXN to trade instead of 2) as well as fees (cheaper to interact with!)
+
+
+[RUNES END]

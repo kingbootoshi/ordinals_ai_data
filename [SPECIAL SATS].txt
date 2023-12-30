@@ -1,0 +1,71 @@
+﻿[SPECIAL SATS]
+Special sats, “rare sats”, exotic sats, are all sats with a specified attribute due to its history with the block, or timeline, or event. Here is some info about the specific details of current known satribute categories:
+
+Satributes: 
+Every inscription is tied to an individual sat which is used to track ownership of the inscription. This means that every Ordinal "NFT" is a combination of an inscription (the file) and a sat (how ownership is tracked). While the majority of people mostly pay attention to what the file and what the art looks like, the most serious ordinals collectors also care about the sat being inscribed on. When an inscription is on a "special" or "old" sat, sites like https://ord.io will assign them "satributes" so that collectors can easily filter for the inscriptions on interesting sats. Many of the most thoughtful and OG creators in the space are very intentional about what sats they inscribe on. For example,  @null_ish inscribed his 50-piece Uncommon Patterns collection all on "Uncommon" sats, which are sats that were the first in a block. Given there are 1.9 quadrillion sats in circulation and only 745,855 of them are Uncommon, this adds a layer of scarcity to an inscription that collectors value. Another example is  @ZK_shark who inscribed many of the pieces in his  @OrdinalMaxiBiz collection on "Vintage" sats from block 78. There is an entire world of special/old sats to explore like "Pizza Sats", "Palindrome Sats", and "Nakamoto Sats", and https://ord.io is a great tool and explorer to go dig into them deeper. 
+[BOT NOTE: ord.io is an explorer, it is only used for the viewing of ordinals]
+
+
+Uncommon Sats: These are the first sat of each block. With about 6.93 million of these, they are a bit more special than the Common ones. They represent the beginning of a new block and are thus slightly harder to find.
+
+
+Rare Sats: These are the first sat of each difficulty adjustment period. There are about 3,437 of these, making them even more scarce. They mark significant points in Bitcoin's timeline, as difficulty adjustments happen about every two weeks to ensure the stability of the Bitcoin network.
+
+
+Epic Sats: These are the first sat of each halving epoch. There are about 5 of these, making them quite rare indeed. Halving epochs occur approximately every four years, and these sats mark these significant events. The next Bitcoin halving will give rise to another Epic satoshi.
+
+
+Legendary Sats: These are the first sat of each cycle. The number of these is yet to be determined, depending on the length and number of cycles in Bitcoin's history. These sats mark the beginning of new cycles, making them significant markers in Bitcoin's timeline.
+
+
+Mythic Sats: The Mythic sat is the first sat of the genesis block. There is only one of these, making it the rarest of all sats. This satoshi marks the very beginning of Bitcoin and holds immense historical significance.
+
+
+Nakamoto Sats: These are sats mined by Bitcoin's creator, Satoshi Nakamoto. The total supply of these sats is about 110 trillion. This represents 5.24% of the total Bitcoin supply.
+
+
+Pizza Sats: These sats are associated with the first documented purchase with Bitcoin—10,000 BTC for two pizzas. The total supply of these sats is 1 trillion.
+
+
+Vintage Sats: These sats are from the first 1,000 block range, dating from January 04, 2009, to January 19, 2009. The total supply of these sats is 100 billion.
+
+
+Block 9 Sats: These are the oldest sats in circulation. The total supply of these sats is 5 billion.
+
+
+Block 78 Sats: These are the first block mined by someone other than Satoshi, mined by Hal Finney. The total supply of these sats is 5 billion.
+
+
+First Transaction Sats: These sats were transferred from Satoshi to Hal Finney on January 12, 2009, in block 170. The total supply of these sats is 1 billion.
+
+
+Palindrome Sats: These are the sats where the numbers read the same backward as forwards. The total supply of these sats is estimated to be around ~121 million.
+
+
+Vintage Palindromes: These are palindrome sats from the first 1,000 block range, dating from January 04, 2009, to January 19, 2009. The total supply of these sats is roughly 6 million.
+
+
+Pizza Palindromes: These are palindrome sats associated with the first documented purchase with Bitcoin—10,000 BTC for two pizzas. The total supply of these sats is roughly 3 million.
+
+
+Block 286 Palindromes: These are palindrome sats from block 286. The total supply of these sats is also roughly 1,100.
+
+
+Block 78 Palindromes: These are palindrome sats from the first block mined by someone other than Satoshi, mined by Hal Finney. The total supply of these sats is roughly 1,100.
+
+
+Block 9 Palindromes: These are palindrome sats from the oldest block in circulation. The total supply of these sats is roughly 1,100, making them the rarest historical sat you can find.
+
+
+
+
+SPECIAL SATS HUNTING/HUNTING FOR SATS/SAT HUNTING
+There are sites such as Saturn (https://twitter.com/Saturn_btc) that allow you to input your BTC address and scan your wallet for special sats.
+
+If you wish for manual sat control via Sparrow in order to extract these sats, you must use the ord client that is indexed with sats or follow the guides made by goated community member Franken 
+Sat Hunting Part 1: The Hunt
+https://twitter.com/ItsFranken/status/1634186660220121088
+
+Sat Hunting Part 2: The Extraction
+https://twitter.com/ItsFranken/status/1639202586074152969
+[SPECIAL SATS END]

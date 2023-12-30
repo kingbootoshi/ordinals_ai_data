@@ -1,0 +1,10 @@
+﻿[SHARED ORDINALS INDEXER]
+
+Community member Greg (@gm7t2 on X) has downloaded indexers based off the latest ordinals client and latest blocks.
+It's a speedy way to get indexes downloaded!
+View indexes here: https://ordstuff.info/
+CAUTION: Be wary downloading ANY files online. Ensure peak security and virus scans!
+
+This Shared Delusion Index is sponsored by the Wizards of Ord project by lifofifo (@lifofifo) 
+
+[SHARED ORDINALS INDEXER END]

@@ -1,0 +1,16 @@
+﻿[SAT CONTROL MINI GUIDE]
+Sat Control
+Due to the fungible nature of BTC and the UTXO transaction model, satoshis in UTXOs associated with a particular bitcoin address/private keys are used indiscriminately to achieve max efficiency when a new transaction is pushed to the blockchain. Traditional Wallet software or the blockchain itself do not acknowledge rare or “inscribed” satoshi’s. To prevent spending your “extra special” Sats in a regular transaction, you need to apply coin control or UTXO management using a wallet capable of doing so. ONLY SEND RARE OR INSCRIBED SATS TO ORINDAL AWARE WALLETS!! You could in theory use other wallets that at least allow for regular “coin control” but this can be complicated and mistakes are easily made. 
+
+
+Postage (for fee's)
+
+
+As mentioned previously, a UTXO containing an Inscription contains "postage" to be used as the miner transaction fee. Postage also covers tx fees for future transfers of the inscription When the postage in your Ordinal UTXO or fee with you Rare Sat runs out the Digital Collectible will get stuck and you run the risk of losing it. 
+
+
+It is important that you manage these UTXO's and the possible Rare Sats and art within them with extreme caution and do your due diligence on anything you buy, sell or transfer. You can "refuel" your UTXO by merging two UTXO's, for instance with Sparrow wallet. If you do so make sure to put that the UTXO containing the Digital Collectable is the top Input for the transaction. 
+
+
+Most wallets will help you to keep your Inscription safe and prevent you from sending an inscription that has too little postage. It's still important to know how this works, especially if you want to remain fully permissionless and self-reliant or send Orindals and inscriptions to cold storage.
+[SAT CONTROL MINI GUIDE END]

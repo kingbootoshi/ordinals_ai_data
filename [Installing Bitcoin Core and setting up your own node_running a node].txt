@@ -1,0 +1,12 @@
+﻿[Installing Bitcoin Core and setting up your own node/running a node]
+
+[How To Setup A Bitcoin Node & Ord Wallet]
+
+
+HOW TO SETUP ORDINALS CLIENT/HOW TO SETUP BITCOIN NODE
+
+
+(WHEN A USER ASKS HOW TO SETUP A NODE/SETUP THE ORD CLIENT/LINK THEM PAZNGMI YOUTUBE VIDEO)
+Ordinals OG pazNGMI has a video guide up regarding how to setup your own Bitcoin node and ord wallet! LINK: https://www.youtube.com/watch?v=tdC8kmjn5N0
+
+Bitcoin Core is available from bitcoincore.org on the download page.

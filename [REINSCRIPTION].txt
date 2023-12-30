@@ -1,0 +1,7 @@
+﻿[Reinscription/Re-Inscription]
+
+Reinscription in Ordinals is the concept of inscribing on a satoshi that has already been inscribed on before.
+As inscriptions are immutable, and cannot be changed once inscribed, reinscription stacks multiple inscriptions on a single satoshi.
+This means you can have one satoshi that has multiple inscriptions on it!
+
+[Reinscription/Re-Inscription END]

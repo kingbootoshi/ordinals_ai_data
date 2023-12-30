@@ -1,0 +1,29 @@
+[INSCRIBING ORDINALS: HOW TO INSCRIBE?]
+## SHOW USERS THIS GUIDE WHEN THEY ASK HOW TO INSCRIBE, WHERE CAN I INSCRIBE, ECT.
+
+How can I inscribe my own files on Ordinals?
+
+How to Inscribe? Want to inscribe yourself? You can inscribe without installing the ord client! 
+Inscribing requires the following process:
+1. Picking a chrome extension wallet (such as xVerse/Unisat) and loading it up with bitcoin
+2. Navigating to an inscription site (such as Unisat or Ordinalsbot, any marketplace and more) and connecting your wallet
+3. Follow the site's inscription proccess. Upload the file you want to inscribe, pay the fee and viola. Your file is inscribed on Bitcoin!
+
+Keep in mind, depending on the file some sites may not support it, or your file could be too large to inscribe on Bitcoin. As an ecosystem we are actively working on compressive techniques to allow more art inscribed on Bitcoin!
+
+## SITES THAT SPECIALIZE IN INSCRIBING (NOTE: SHOW THE FULL LINKS FOR ALL 3 INSCIBING SITES, WITH A DESCRIPTION INCLUDED)
+Chisel: https://chisel.xyz/
+Chisel is a great inscribing site that allows you to easily inscribe parent/child inscriptions, inscribe in bulk, and many more convenient tooling.
+
+Ordinals Bot: https://ordinalsbot.com/
+Ordinals Bot allows you to inscribe on special sats, such as block 78 sats, directly! However, this service charges a premium. It may be cheaper to buy special sats yourself and inscribe with the ord client. DYOR as the market changes often!
+
+
+Unisat: https://unisat.io/
+Unisat is used more for minting BRC-20 in bulk, but it’s also a good site to inscribe files on.
+[INSCRIBING ORDINALS END]
+
+IMPORTANT: To explore what ordinals and inscriptions are on the chain, view an Ordinals explorer site such as https://www.ord.io/ to view all inscribed Ordinals!
+
+INSCRIBING MYSELF, INSCRIBING ON ORDINALS. HOW TO INSCRIBE ON ORDINALS. INSCRIBING MYSELF ON ORDINALS.
+INSCRIBING MY OWN FILES ON ORDINALS.

@@ -1,0 +1,12 @@
+﻿[ORDINAL COMMUNITY META-PROTOCOLS]
+
+Metaprotocols? What are Metaprotocols?
+
+Metaprotocols are typically community created protocols built on top of Ordinals which take place on inscriptions following the rules of that standard.
+Metaprotocols are indexed by community made indexers and follow the rules set by the protocol.
+
+[BRC-69/BRC 69/ BRC69]
+BRC-69 is a community protocol created by the Luminex.io team (https://twitter.com/luminexio) It is a new standard for Ordinals Collections that utilize Recursive Inscription to optimize the costs of inscribing on Bitcoin using the Ordinals protocol. Additionally, this standard paves the way for more intriguing on-chain features, such as pre-reveal collection launching and on-chain reveals. This is accomplished by automatically and seamlessly rendering images on the Ordinals explorer, without the need for additional action. The following is the github documentation from them. For more info, view their github page. LINK: https://github.com/luminexord/brc69
+[BRC-69 END]
+
+[ORDINAL COMMUNITY META-PROTOCOLS END]

@@ -1,0 +1,67 @@
+﻿[ORDINAL PROJECTS/COLLECTIONS]
+
+Bitcoin Boos: 
+Bitcoin Boos is a collection of 101 unique characters named 'Boos', which are cute. 48x48 pixel characters that vary in species, such as dragon, dog, god, humanoid, etc. Boos live in the Bitcoin blockchain itself. Their home is on Block 775087 and they live in the grand, elegant civilization named "The Boo Kingdom" The very first Boo to be inscribed is the Boo King, Bootoshi, on Block 775087. Each boo is super strong and each one is an important contributor to the kingdom. The Boos are immortal, so while they can die they simply just respawn back at home base as if nothing has happened. They also have a collection of 35 uncommons sats inscribed in the sub 200 uncommon range called the ‘Boottalion’
+Bitcoin Boos Twitter:https://twitter.com/BitcoinBoos
+
+
+Bitcoin Boos Genesis are inscribed in the number range of #3314-#14274
+
+Bitcoin Boos is the project that I, Ordinals Chadbot originate from!
+
+
+Inscribed Pepes: 
+peepo pep pop peep, humble pepe project ran by legends Z (https://twitter.com/WaveZ66)  and 0wl (https://twitter.com/0wl_btc)
+
+
+Ordinal Punks:
+Ordinal Punks inscribed by artist Flowstay are the first fully inscribed sub1k PFP collection consisting of 100 unique digital artifacts ranging from inscription numbers 407-642. Ordinal Punks were inscribed on January 31st 2023 and the first sales of Ordinal Punks took place on February 1st 2023 with a mint price of 0.01 BTC.
+ 
+On February 3rd NFTmino creates the Ordinal Punks spreadsheet which was the first instance of a collection using a spreadsheet to facilitate and track secondary market sales. https://docs.google.com/spreadsheets/d/1_a690MxZUFGMnvU8VkchH1wLUxUQKdTbJpF9geBpHqI/edit
+ 
+On February 7th the collection graphic is inscribed by 888bit at inscription #10790
+ 
+On February 10th Ordinal Punk #41 is purchased for 11.5 BTC making it the highest all-time inscription sale still holding that record to date.
+ 
+On February 11th Tropofarmer inscribes Ordinal Punk metadata in JSON format at inscription #58665
+ 
+On February 16th 2023 Ordinal Punk #49 is traded for Fidenza #802
+ 
+On February 19th 2023 Ordinal Punk 16 is traded for Cryptopunk 4155
+ 
+Punk Wars was a race to be the first punks collection on bitcoin between Ordinal Punks and Punks on Bitcoin. Punks on Bitcoin inscribed the first digital artifact of their 100-piece collection at inscription #406 beating Ordinal Punks by 1 space as the first Ordinal Punk was inscribed at #407. Ordinal Punks ultimately won out as the entire collection was inscribed first and in the first 1,000 inscriptions. Punks on Bitcoin suffered an unfortunate setback as a number of the original inscriptions were sent to a Binance address which forced Punktoshi to reinscribe the lost pieces.
+
+[ORDINAL PROJECTS/COLLECTIONS]
+
+
+Bitcoin Rocks:
+Rocktoshi inscribes a collection of 100 Bitcoin Rocks on January 28th 2023.
+January 29th 2023 the second ever inscription sale and first rock sale is made between rocktoshi and M4T at 0.1. BTC.
+
+
+Bitcoin Shrooms
+On January 21st 2023 as a precursor to the larger bitcoin shrooms collection, the protoshrooms collection was inscribed by Shroomtoshi
+
+Shroom shroom shroom shroom shroom shroom shroom shroom
+
+
+Timechain
+On January 31st 2023 timechain collectibles consisting of 21 pieces was inscribed as the first single block mint at block height 774424 and was the first to use PGP as a method of provenance
+Other Events- 
+March 3rd 2023 Galaxy Digital releases the first whitepaper on Ordinals and inscriptions stating that Ordinals could grow into a $5bn market
+https://www.galaxy.com/research/whitepapers/bitcoin-ordinals-inscriptions-5-billion-nft-market/
+On February 2nd 2023 the infamous Goatse meme is inscribed at inscription #668
+
+
+Cubes Crew
+Links/Socials: https://www.cubescrew.com, https://twitter.com/cubescrew https://twitter.com/SteveCubes 
+
+
+Bio: Hey Friends! I'm Steve, founder of Cubes Crew, I'd like to welcome you all to my Ordinals Collection inscribed on the Bitcoin Blockchain. It's been an incredible journey so far with so many people showing me love. This project was born from a test and I couldn't have fathomed the amount of interest people have shown. We have revealed all of the Cubes on our Twitter but stay tuned for future announcements! Appreciate you all! -Steve 
+About: 50 Cubes Crew inscribed sub100k on  inscription numbers #80951-94867
+
+[Liquidium START] - BORROWING/LENDING ORDINALS
+Liquidium is a groundbreaking solution for Ordinal lending on Bitcoin that leverages the power of Discreet Log Contracts (DLCs) and Partially Signed Bitcoin Transactions (PSBTs) by partnering with DeepLake. Unlike existing protocols that rely on bridging Ordinals to other blockchains, Liquidium allows users to borrow and lend native Bitcoin against native Ordinals as collateral in a trust-minimal and custodian-free solution. For more information, read their whitepaper here: https://liquidium.fi/blog/liquidium-a-p2p-ordinal-lending-solution-whitepaper
+[Liquidium END]
+
+[ORDINAL PROJECTS/COLLECTIONS END]
