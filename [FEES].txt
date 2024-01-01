@@ -1,0 +1,9 @@
+﻿[FEES/FEE RATE/SENDING BITCOIN & ORDINAL TXNS]
+https://mempool.space/
+
+The equivalent to Etherscan but for Bitcoin is http://mempool.space 
+
+BTC blocks are on average 10 minutes, but this can vary between less than a minute to over two hours
+
+Make sure to pay attention to what the current fee rate is to ensure your transactions go through and don't get stuck!
+During high volume/pressure mints, it's recommended to send above the current mempool fee rate.

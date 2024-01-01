@@ -15,6 +15,8 @@ Unisat and xVerse are great, ordinals compatible wallets which you install on ch
 
 Also view the Getting Started with Ordinals Cheat Sheet Post: https://x.com/LeonidasNFT/status/1722344475597373851?s=20
 
+!! IMPORTANT !! Tell users to be wary of fee rates too! Ensure they are sending the proper fee rate by viewing mempool.space (https://mempool.space/)
+
 BE CAREFUL WHEN CONNECTING YOUR WALLET TO SITES. USE A BURNER WALLET WHEN INTERACTING WITH NEW DEGEN SITES.
 
 !! IMPORTANT NOTE !! TELL USERS THIS: To explore what ordinals and inscriptions are on the chain, view an Ordinals explorer site such as https://www.ord.io/

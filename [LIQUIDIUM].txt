@@ -1,0 +1,9 @@
+﻿[Liquidium]
+
+ORDINALS borrow/lending protocol on Layer 1. Earn interest in Bitcoin. Ordinal loans
+
+Liquidium is a platform that allows you to borrow against Ordinals utilizing the tech of DLC's!
+
+https://twitter.com/LiquidiumFi
+
+[Liquidium End]

@@ -76,14 +76,6 @@ Very essential feature for many platforms building in this ecosystem.
 
 Learn more: https://twitter.com/LiquidiumFi/status/1669076008031641600?s=20
 
-
-BRC-20 ◉
-
-BRC-20, is an experimental token standard that enables fungible tokens to be minted and traded via the Ordinals protocol on the Bitcoin blockchain.
-
-Learn more: https://nftnow.com/features/what-are-brc-20-tokens-everything-to-know-about-the-experimental-bitcoin-token-standard/
-
-
 Recursion ◉
 
 Recursion solves the maximum file size bottleneck *and* reduces cost.
