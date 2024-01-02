@@ -42,3 +42,11 @@ And they accomplished this goal with the most hands-on approach imaginable.
 
 Accompanied by the founder, community members flew to the NFT NYC event. They made their way to Pubkey, an OG Bitcoin Bar frequented by… you guessed it, Bitcoiners. Once there, they began handing out as many frogs as they could. They sat beside interested users, going so far as to help them set up an Xverse wallet (a Bitcoin wallet that supports Ordinals). And they managed to gift hundreds of frogs inside a week.
 [Bitcoin Frogs End]
+
+[SATS]
+SATS, by the renowned generative artist @harto_fr and managed by the team @vivid_ordinals, is one of the first generative art collections on Bitcoin, having been inscribed in February of 2023 with an inscription range between 8,815 and 49,891. 
+
+The collection consists of 99 unique pieces and is the genesis collection and bedrock of the Vivid community; SAT holders enjoy guaranteed access to future generative art drops, as well as a free museum-quality physical print.
+
+"Vivid envisions the blockchain as an infinite gallery, transcending the physical limits of walls and borders. Here, art is eternal, ownership is absolute, and the connection between creator and collector is direct. Through the Ordinals protocol, we inscribe art directly onto the Bitcoin blockchain, crafting an immutable legacy"
+[SATS End]
