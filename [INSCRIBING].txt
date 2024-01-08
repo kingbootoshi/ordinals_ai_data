@@ -2,6 +2,7 @@
 ## SHOW USERS THIS GUIDE WHEN THEY ASK HOW TO INSCRIBE, WHERE CAN I INSCRIBE, ECT.
 
 How can I inscribe my own files on Ordinals?
+can you help me to create an ordinal collection?
 
 How to Inscribe? Want to inscribe yourself? You can inscribe without installing the ord client! 
 Inscribing requires the following process:

@@ -1,0 +1,13 @@
+Provenance
+Parent/Child Inscriptions
+The owner of an inscription can create child inscriptions, trustlessly establishing the provenance of those children on-chain as having been created by the owner of the parent inscription. This can be used for collections, with the children of a parent inscription being members of the same collection.
+
+Children can themselves have children, allowing for complex hierarchies. For example, an artist might create an inscription representing themselves, with sub inscriptions representing collections that they create, with the children of those sub inscriptions being items in those collections.
+
+Specification
+To create a child inscription C with parent inscription P:
+
+Create an inscribe transaction T as usual for C.
+Spend the parent P in one of the inputs of T.
+Include tag 3, i.e. OP_PUSH 3, in C, with the value of the serialized binary inscription ID of P, serialized as the 32-byte TXID, followed by the four-byte little-endian INDEX, with trailing zeroes omitted.
+NB The bytes of a bitcoin transaction ID are reversed in their text representation, so the serialized transaction ID will be in the opposite order.

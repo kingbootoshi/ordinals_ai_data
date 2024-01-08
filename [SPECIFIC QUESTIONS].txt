@@ -1,0 +1,3 @@
+﻿How do I batch inscribe?
+To batch inscribe with the ord client itself, check out the ordinal docs (https://docs.ordinals.com/guides/batch-inscribing.html).
+Additionally, inscribing sites like https://chisel.xyz/ allow you to inscribe multiple files at the same time.

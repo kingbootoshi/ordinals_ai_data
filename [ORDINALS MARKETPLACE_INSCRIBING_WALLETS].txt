@@ -1,0 +1,13 @@
+﻿[MARKETPLACES]
+HOW TO BUY/TRADE ORDINALS? HOW TO GET STARTED TRADING ORDINALS? SELLING ORDINALS?
+Trading Ordinals on bitcoin is similar to trading ETH NFT’s on Opensea.
+You simply download a chrome extension wallet such as Unisat, xVerse, or Leather- Send bitcoin into the wallet, then you are able to connect to a marketplace website and buy/sell with the click of a button!
+
+There are several marketplaces in which you can buy/sell Ordinals, the most notable being:
+Magic Eden: https://magiceden.io/ordinals
+Gamma.io: https://gamma.io/
+Ordinals Wallet: https://ordinalswallet.com/
+Unisat: https://unisat.io/
+You can also inscribe easily on these marketplaces!
+
+[MARKETPLACES END]
