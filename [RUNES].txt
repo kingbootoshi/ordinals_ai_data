@@ -1,8 +1,60 @@
 ﻿[RUNES]
-Runes are a new fungible token protocol on Bitcoin in development by the Ord team. It will go live the same block as the halvening, which should be somewhere in April.
 
+runes:
+  description: Runes allow Bitcoin transactions to etch, mint, and transfer Bitcoin-native digital commodities. While every inscription is unique, every unit of a rune is the same and interchangeable.
+  
+runestones:
+  description: Runestones are rune protocol messages stored in Bitcoin transaction outputs. A transaction can have at most one runestone.
+  operations:
+    - etch: Create a new rune and set its properties.
+    - mint: Create new units of an existing rune.
+    - transfer: Transfer runes from a transaction's inputs to its outputs.
 
-It is said to be more efficient than BRC-20s, both in transaction time (requires 1 TXN to trade instead of 2) as well as fees (cheaper to interact with!)
+rune_properties:
+  name:
+    description: Names consist of letters A-Z, between 1-28 characters long, and can contain spacers (bullets) for readability. Names must be unique.
+    example: UNCOMMONGOODS or UNCOMMON•GOODS
+  divisibility:
+    description: A rune's divisibility determines how finely it can be divided into atomic units, expressed as the number of digits permissible after the decimal point.
+    examples:
+      - divisibility 0 (e.g., 101)
+      - divisibility 1 (e.g., 1.0)
+      - divisibility 2 (e.g., 1.01)
+  symbol:
+    description: A rune's currency symbol is a single Unicode code point displayed after quantities of that rune. If no symbol is specified, the generic currency sign '¤' is used.
+    examples:
+      - '$'
+      - '⧉'
+      - '🧿'
+  premine:
+    description: The etcher of a rune can optionally allocate units of the rune to themselves upon etching, called a premine.
 
+mint_terms:
+  description: A rune can have an open mint, allowing anyone to create and allocate units of that rune, subject to certain terms set upon etching.
+  terms:
+    cap:
+      description: The maximum number of times a rune can be minted.
+    amount:
+      description: The fixed amount of new units created in each mint transaction.
+    start_height:
+      description: The block height at which the mint opens.
+    end_height:
+      description: The block height after which the mint closes.
+    start_offset:
+      description: The mint opens at the block height equal to the start offset plus the height of the block in which the rune was etched.
+    end_offset:
+      description: The mint closes at the block height equal to the end offset plus the height of the block in which the rune was etched.
+
+transfers:
+  description: When transaction inputs contain runes or new runes are created, they are transferred to the transaction's outputs.
+  edicts:
+    description: A runestone can contain edicts that allocate runes to specific outputs.
+  pointer:
+    description: If no edicts are present, remaining unallocated runes are transferred to the first non-OP_RETURN output, unless a pointer specifies an alternative default output.
+  burning:
+    description: Runes can be burned by transferring them to an OP_RETURN output with an edict or pointer.
+
+cenotaphs:
+  description: Malformed runestones are called cenotaphs. Runes input to a transaction with a cenotaph are burned, runes etched in a cenotaph are set as unmintable, and mints in a cenotaph count towards the cap but the minted runes are burned. Cenotaphs allow for future upgrades to runestone semantics.
 
 [RUNES END]
