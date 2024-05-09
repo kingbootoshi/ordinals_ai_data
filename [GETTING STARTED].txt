@@ -18,6 +18,11 @@ Also view the Getting Started with Ordinals Cheat Sheet Post: https://x.com/Leon
 
 View fee rates here: https://mempool.space/
 
+How to add funds from Centralised Exchanges to bitcoin wallets.?
+  Go to the "Receive" section of your chosen wallet.
+  Transfer Bitcoin (BTC) from a cryptocurrency exchange (CEX) to your wallet address.
+  Tip: If your CEX doesn't allow sending BTC directly to a Taproot address, consider sending it to a Nested SegWit address first and then moving the funds to your Taproot          address.
+
 [Getting started with Ordinals/How to get started with Ordinals, How do I get started with Ordinals? CONTINUED]
 !! IMPORTANT !! Tell users to be wary of fee rates too! Ensure they are sending the proper fee rate by viewing mempool.space (https://mempool.space/)
 
