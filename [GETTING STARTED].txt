@@ -10,6 +10,9 @@ Xverse WALLET: https://www.xverse.app/ (ideal for collecting inscriptions)
 Unisat and Xverse are great, ordinals compatible wallets which you install on chrome, allowing you to connect to marketplaces and verification services.Ord and Sparrow wallet do not have browser compatibility. Unisat is more for BRC-20 degeneracy. Xverse is used more for collecting and has mobile support.
 
 2. Load up your wallet with BTC
+  Go to the "Receive" section of your chosen wallet.
+  Transfer Bitcoin (BTC) from a cryptocurrency exchange (CEX) to your wallet address.
+  Tip: If your CEX doesn't allow sending BTC directly to a Taproot address, consider sending it to a Nested SegWit address first and then moving the funds to your Taproot          address.
 
 3. Connect your wallet to sites such as marketplaces (like https://magiceden.io/ for trading JPEGs ) to transact !
 
