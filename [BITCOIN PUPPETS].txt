@@ -53,8 +53,8 @@ summary_impact:
   description: In summary, while controversial to some, Bitcoin Puppets has brought much-needed visibility, trading activity, infrastructure growth, and cultural vibrancy to the nascent Bitcoin NFT space, impacting both market dynamics and artistic expression.
 
 resources:
-  official_site: https://ordpuppetinu.neocities.org - Официальный сайт Bitcoin Puppets, содержащий подробную информацию о концепции и философии проекта от создателя "Le Puppeteer Fou".
-  predecessor_collection: https://ordpuppetinuundoxxedmillionaires.com - Сайт предшествующей коллекции Ord Puppet Inu Undoxxed Millionaires (O.P.I.U.M.) от того же создателя, раскрывающий дополнительные детали о происхождении и вдохновении для Bitcoin Puppets.
-  blockchain_explorer: https://ordiscan.com/collection/bitcoin-puppets - Ordiscan, блокчейн-обозреватель для Ordinals на Bitcoin, где можно просмотреть все 10 001 уникальных изображений Bitcoin Puppets.
+  official_site: https://ordpuppetinu.neocities.org - Official website of Bitcoin Puppets, containing detailed information about the concept and philosophy of the project from the creator "Le Puppeteer Fou".
+  predecessor_collection: https://ordpuppetinuundoxxedmillionaires.com - Website of the predecessor collection Ord Puppet Inu Undoxxed Millionaires (O.P.I.U.M.) from the same creator, revealing additional details about the origins and inspiration for Bitcoin Puppets.
+  blockchain_explorer: https://ordiscan.com/collection/bitcoin-puppets - Ordiscan, a blockchain explorer for Ordinals on Bitcoin, where all 10,001 unique images of Bitcoin Puppets can be viewed.
 
 [BITCOIN PUPPETS END]
